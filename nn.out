@@ -1,0 +1,44 @@
+Epoch: 100, Cost: 0.660034, Forward time: 20, Backprop time: 65, Cost time: 338, All time: 423
+Epoch: 200, Cost: 0.659534, Forward time: 19, Backprop time: 63, Cost time: 336, All time: 419
+Epoch: 300, Cost: 0.654877, Forward time: 19, Backprop time: 62, Cost time: 335, All time: 418
+Epoch: 400, Cost: 0.627321, Forward time: 19, Backprop time: 62, Cost time: 343, All time: 426
+Epoch: 500, Cost: 0.575193, Forward time: 19, Backprop time: 62, Cost time: 361, All time: 443
+Epoch: 600, Cost: 0.516163, Forward time: 19, Backprop time: 62, Cost time: 372, All time: 454
+Epoch: 700, Cost: 0.474954, Forward time: 19, Backprop time: 61, Cost time: 381, All time: 463
+Epoch: 800, Cost: 0.452589, Forward time: 19, Backprop time: 61, Cost time: 386, All time: 468
+Epoch: 900, Cost: 0.438913, Forward time: 19, Backprop time: 61, Cost time: 380, All time: 462
+Epoch: 1000, Cost: 0.42962, Forward time: 19, Backprop time: 61, Cost time: 379, All time: 460
+Accuracy: 0.65, Forward average time: 19, Backprop average time: 61, Cost average time: 379, All average time: 460
+Epoch: 100, Cost: 0.659932, Forward time: 19, Backprop time: 64, Cost time: 396, All time: 481
+Epoch: 200, Cost: 0.658891, Forward time: 19, Backprop time: 63, Cost time: 365, All time: 449
+Epoch: 300, Cost: 0.647627, Forward time: 19, Backprop time: 63, Cost time: 354, All time: 437
+Epoch: 400, Cost: 0.587679, Forward time: 19, Backprop time: 63, Cost time: 356, All time: 439
+Epoch: 500, Cost: 0.511165, Forward time: 19, Backprop time: 63, Cost time: 351, All time: 435
+Epoch: 600, Cost: 0.436512, Forward time: 19, Backprop time: 63, Cost time: 347, All time: 430
+Epoch: 700, Cost: 0.307539, Forward time: 19, Backprop time: 63, Cost time: 343, All time: 427
+Epoch: 800, Cost: 0.235269, Forward time: 19, Backprop time: 63, Cost time: 344, All time: 428
+Epoch: 900, Cost: 0.198612, Forward time: 19, Backprop time: 63, Cost time: 354, All time: 438
+Epoch: 1000, Cost: 0.175542, Forward time: 19, Backprop time: 63, Cost time: 362, All time: 446
+Accuracy: 0.88, Forward average time: 19, Backprop average time: 63, Cost average time: 362, All average time: 446
+Epoch: 100, Cost: 0.659565, Forward time: 19, Backprop time: 72, Cost time: 433, All time: 525
+Epoch: 200, Cost: 0.655515, Forward time: 19, Backprop time: 71, Cost time: 432, All time: 523
+Epoch: 300, Cost: 0.62748, Forward time: 19, Backprop time: 71, Cost time: 431, All time: 522
+Epoch: 400, Cost: 0.553058, Forward time: 19, Backprop time: 71, Cost time: 430, All time: 522
+Epoch: 500, Cost: 0.433985, Forward time: 19, Backprop time: 71, Cost time: 414, All time: 505
+Epoch: 600, Cost: 0.303104, Forward time: 19, Backprop time: 71, Cost time: 398, All time: 490
+Epoch: 700, Cost: 0.231506, Forward time: 19, Backprop time: 71, Cost time: 387, All time: 479
+Epoch: 800, Cost: 0.186362, Forward time: 19, Backprop time: 71, Cost time: 380, All time: 472
+Epoch: 900, Cost: 0.154949, Forward time: 19, Backprop time: 71, Cost time: 381, All time: 472
+Epoch: 1000, Cost: 0.132728, Forward time: 19, Backprop time: 71, Cost time: 386, All time: 477
+Accuracy: 0.98, Forward average time: 19, Backprop average time: 71, Cost average time: 386, All average time: 477
+Epoch: 100, Cost: 0.656583, Forward time: 19, Backprop time: 98, Cost time: 422, All time: 539
+Epoch: 200, Cost: 0.630668, Forward time: 19, Backprop time: 97, Cost time: 395, All time: 512
+Epoch: 300, Cost: 0.553358, Forward time: 19, Backprop time: 97, Cost time: 370, All time: 487
+Epoch: 400, Cost: 0.468419, Forward time: 19, Backprop time: 97, Cost time: 358, All time: 474
+Epoch: 500, Cost: 0.340196, Forward time: 19, Backprop time: 97, Cost time: 350, All time: 467
+Epoch: 600, Cost: 0.253718, Forward time: 19, Backprop time: 97, Cost time: 346, All time: 462
+Epoch: 700, Cost: 0.203499, Forward time: 19, Backprop time: 97, Cost time: 343, All time: 459
+Epoch: 800, Cost: 0.168625, Forward time: 19, Backprop time: 97, Cost time: 340, All time: 457
+Epoch: 900, Cost: 0.14348, Forward time: 19, Backprop time: 97, Cost time: 339, All time: 455
+Epoch: 1000, Cost: 0.125193, Forward time: 19, Backprop time: 97, Cost time: 337, All time: 454
+Accuracy: 0.96, Forward average time: 19, Backprop average time: 97, Cost average time: 337, All average time: 454
